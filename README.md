@@ -1,5 +1,5 @@
-# Polarr for Mac support
-Welcome to Polarr Support for Mac! (Please note that this section is only for Mac apps, for other platforms, please return to https://github.com/Polarrco/.) Here you can post any questions, bugs and feedback regarding Polarr. Some of the issues will be marked as cash_bounty by Polarr and we provide a cash reward for any user who can reliably reproduce the issue.
+# Polarr for Mac/Windows support
+Welcome to Polarr Support for Mac/Windows! (Please note that this section is only for Mac/Windows apps, for other platforms, please return to https://github.com/Polarrco/.) Here you can post any questions, bugs and feedback regarding Polarr. Some of the issues will be marked as cash_bounty by Polarr and we provide a cash reward for any user who can reliably reproduce the issue.
 
 # Before posting an issue
 Before posting an issue, consult the wiki page at: https://github.com/Polarrco/polarr_mac_support/wiki to see if your question has already been answered. You can also browse current "closed issues" and "open issues" to see if your problem has been addressed. Closed issues have already been resolved. Open issues are ongoing discussions.
